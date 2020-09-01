@@ -4,7 +4,7 @@ date: 2020-06-06T01:22:55.506Z
 title: Ikan Laut
 description: pondok programmer
 ---
-![Great Gatsby](../assets/great.jpg "Great Gatsby")
+![Great Gatsby](../assets/profile-pic.jpg "Great Gatsby")
 
 ## Netlify CMS Media Configuration
 
