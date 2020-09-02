@@ -3,7 +3,7 @@ path: Novela
 date: 2020-09-02T00:23:12.391Z
 title: Novela Blog Gatsby
 description: With minimal styling and maximum features — including multiple
-  homepage layouts, built-in social sharing and dark mode — Novela makes it easy
+  homepage layouts, built-in social sharing and dark mod, Novela makes it easy
   to start publishing beautiful articles and stories with Gatsby.
 ---
 <a href="https://novela.narative.co" target="_blank">
