@@ -1,8 +1,10 @@
 ---
-path: Hantu Indonesia
+path: Novela
 date: 2020-09-02T00:23:12.391Z
-title: Semu
-description: jkdfjkdsj w nwefj wejifjewfjiwejif wefewfjinwejif
+title: Novela Blog Gatsby
+description: With minimal styling and maximum features — including multiple
+  homepage layouts, built-in social sharing and dark mode — Novela makes it easy
+  to start publishing beautiful articles and stories with Gatsby.
 ---
 <a href="https://novela.narative.co" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
