@@ -1,8 +1,8 @@
 ---
-path: awesome-images
+path: netlify
 date: 2020-06-06T01:22:55.506Z
-title: Ikan Laut
-description: pondok programmer
+title: Netlify
+description: Netlify
 ---
 ![Great Gatsby](../assets/profile-pic.jpg "Great Gatsby")
 
