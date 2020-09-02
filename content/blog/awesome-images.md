@@ -2,7 +2,8 @@
 path: netlify
 date: 2020-06-06T01:22:55.506Z
 title: Netlify
-description: Netlify
+description: So digging a little deeper, it looks like Gatsby only looks for
+  "subplugins" at one specific path, `options.plugins`
 ---
 ![Great Gatsby](../assets/profile-pic.jpg "Great Gatsby")
 
