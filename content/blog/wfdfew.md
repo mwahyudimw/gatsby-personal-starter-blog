@@ -1,7 +1,7 @@
 ---
 path: javascript
 date: 2020-09-01T08:22:49.703Z
-title: Java Script 30 Day
+title: Java Script
 description: Starter Files + Completed solutions for the JavaScript 30 Day Challenge
 ---
 ![](https://javascript30.com/images/JS3-social-share.png)
